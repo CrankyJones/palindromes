@@ -15,5 +15,8 @@ describe(Words) do
     it('returns true if a multiple word input is a palindrome') do
       expect(Words.palindrome_check("taco cat")).to(eq(true))
     end
+    it('returns true if a word or sentence is a palindrome regardless of case') do
+      expect(Words.palindrome_check("Mom")).to(eq(true))
+    end
   end
 end
