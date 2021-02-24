@@ -6,5 +6,4 @@ class Words < String
       false
     end
   end
-end
-    
+end    
