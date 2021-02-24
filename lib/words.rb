@@ -1,9 +1,11 @@
 class Words < String
   def self.palindrome_check(string)
-    if string == string.reverse
+    word = string.split(' ').join
+    if word == word.reverse
       true
     else
       false
     end
   end
 end    
+
