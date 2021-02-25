@@ -37,5 +37,5 @@ _A project created from an Epicodus practice prompt to utilize custom classes an
 
 ## Contact Information
 
-_Jo Miller: joannadawnmiller@gmail.com_
+_Jo Miller: joannadawnmiller@gmail.com_ <br>
 _Geof Rosenmund: geof.rosenmunds.email@gmail.com_
